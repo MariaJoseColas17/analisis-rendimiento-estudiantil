@@ -21,7 +21,5 @@ Este proyecto realiza un análisis exploratorio de datos y predicción de la not
 - Entrenamiento de modelos de regresión lineal y Random Forest para predecir la nota final
 - Evaluación comparativa de modelos con métricas MSE y R²
 
----
 
-## Ejemplo de resultados
 
